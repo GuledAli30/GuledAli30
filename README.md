@@ -2,7 +2,7 @@
 
 I'm **Guled Ali**, and I’m passionate about all things DevOps and cloud!
 
-- 🔭 I’m currently working on AWS projects
+- 🔭 I’m currently working on AWS 
 - 🐳 I’m learning Docker and container orchestration
 - 🌱 I’m exploring CI/CD pipelines, infrastructure as code, and automation
 - 💬 Ask me about AWS, Docker, or DevOps practices
